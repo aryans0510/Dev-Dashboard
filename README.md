@@ -2,7 +2,7 @@
 
 A beautiful, modern productivity dashboard designed specifically for developers. Built with React, Tailwind CSS, and featuring stunning 3D animations powered by Spline.
 
-![Dev-Dashboard](https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?w=1200&h=600&fit=crop)
+![Dev-Dashboard](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## ✨ Features
 
