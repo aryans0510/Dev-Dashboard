@@ -64,39 +64,6 @@ A beautiful, modern productivity dashboard designed specifically for developers.
 - **Data Persistence:** localStorage for client-side storage
 - **APIs:** GitHub API, Dev.to API
 
-## 🚀 **Getting Started**
-
-### Prerequisites
-- Node.js 16+ 
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/dev-dashboard.git
-   cd dev-dashboard
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
 
 ## 📁 **Project Structure**
 
